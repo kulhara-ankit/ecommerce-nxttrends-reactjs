@@ -1,3 +1,13 @@
+Username: rahul
+password: rahul@2021
+
+![image](https://github.com/kulhara-ankit/ecommerce-nxttrends-reactjs/assets/146313680/69f05e80-9fb6-4b05-8e66-be7c36b713cc)
+![image](https://github.com/kulhara-ankit/ecommerce-nxttrends-reactjs/assets/146313680/d444da9c-8d2e-43e7-b3ff-ae9ced955a3d)
+
+
+
+
+
 In this project, let's build a **Nxt Trendz - Specific Product Details** app by applying the concepts we have learned till now.
 
 ### Refer to the image below:
